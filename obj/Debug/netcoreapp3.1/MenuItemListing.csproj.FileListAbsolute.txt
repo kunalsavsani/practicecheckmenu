@@ -105,3 +105,4 @@ C:\Users\Rahul\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Microsoft.Id
 C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
 C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Rahul\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemListingdepl.yaml
+C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csprojAssemblyReference.cache
