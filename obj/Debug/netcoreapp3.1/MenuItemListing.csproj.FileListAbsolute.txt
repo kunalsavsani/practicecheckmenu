@@ -1,7 +1,6 @@
 C:\Users\Rahul\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Rahul\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Rahul\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csprojAssemblyReference.cache
 C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfoInputs.cache
 C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.AssemblyInfo.cs
 C:\Users\Rahul\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.RazorTargetAssemblyInfo.cache
